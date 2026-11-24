@@ -1,5 +1,7 @@
 # Linux Essentials — Simulado D281 em português
 
+[▶ Iniciar o simulado de Linux Essentials](https://davimoraisdev.github.io/Linux_exam/linux-essentials-d281-pt-br.html)
+
 Estude fundamentos de Linux com 80 questões de múltipla escolha em português do Brasil. Cada questão traz um gabarito comentado que explica a resposta. Os comandos, caminhos e exemplos de saída mantêm a grafia original para que você possa reconhecê-los no terminal.
 
 ## Como começar
